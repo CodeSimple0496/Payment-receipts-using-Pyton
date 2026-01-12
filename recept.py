@@ -87,10 +87,10 @@ table = Table(DATA, style=style)
 customer_style = styles["Normal"]
 customer_info = [
     Paragraph("<b>Bill To:</b>", customer_style),
-    Paragraph("John Smith", customer_style),
-    Paragraph("123 Main Street", customer_style),
-    Paragraph("San Francisco, CA 94105", customer_style),
-    Paragraph("Email: john.smith@email.com", customer_style),
+    Paragraph("Brahmananda Bisoyi", customer_style),
+    Paragraph("Khorda Main Road", customer_style),
+    Paragraph("Khorda, Bhubaneswar, pin-752054", customer_style),
+    Paragraph("Email: brahmanandabisoyi0496@email.com", customer_style),
 ]
 
 # Build the PDF with all elements
